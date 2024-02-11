@@ -1,0 +1,26 @@
+export const apis={
+    projects:{
+        allprojects:"/projects"
+    },
+    tasks:{
+        alltasks:"/tasks"
+    },
+    managers:{
+        allmanagers:"/managers"
+    },
+    employees:{
+        allemployees:"/employees"
+    },
+    holidays:{
+        allholidays:"/holidays"
+    },
+    dmholiday:{
+        alldmholidays:"/dmholiday"
+    },
+    users:{
+        allusers:"/users"
+    },
+    status:{
+        allstatus:"/status"
+    }
+}
